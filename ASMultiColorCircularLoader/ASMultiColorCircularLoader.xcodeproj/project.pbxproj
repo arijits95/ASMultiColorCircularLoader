@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		7C48E72224D1C7F10054FD70 /* ASMultiColorCircularLoader.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C48E72024D1C7F10054FD70 /* ASMultiColorCircularLoader.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7C48E72C24D1F3DF0054FD70 /* ASMultiColorCircularSpinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C48E72B24D1F3DF0054FD70 /* ASMultiColorCircularSpinner.swift */; };
+		7C48E72C24D1F3DF0054FD70 /* ASMultiColorCircularLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C48E72B24D1F3DF0054FD70 /* ASMultiColorCircularLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7C48E71D24D1C7F10054FD70 /* ASMultiColorCircularLoader.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ASMultiColorCircularLoader.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C48E72024D1C7F10054FD70 /* ASMultiColorCircularLoader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ASMultiColorCircularLoader.h; sourceTree = "<group>"; };
 		7C48E72124D1C7F10054FD70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7C48E72B24D1F3DF0054FD70 /* ASMultiColorCircularSpinner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ASMultiColorCircularSpinner.swift; sourceTree = "<group>"; };
+		7C48E72B24D1F3DF0054FD70 /* ASMultiColorCircularLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ASMultiColorCircularLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 		7C48E72824D1C8040054FD70 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				7C48E72B24D1F3DF0054FD70 /* ASMultiColorCircularSpinner.swift */,
+				7C48E72B24D1F3DF0054FD70 /* ASMultiColorCircularLoader.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -143,7 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7C48E72C24D1F3DF0054FD70 /* ASMultiColorCircularSpinner.swift in Sources */,
+				7C48E72C24D1F3DF0054FD70 /* ASMultiColorCircularLoader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

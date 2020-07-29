@@ -1,5 +1,5 @@
 //
-//  ASMultiColorCircularSpinner.swift
+//  ASMultiColorCircularLoader.swift
 //  CircularSpinner
 //
 //  Created by Arijit Sarkar on 29/07/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-public class ASMultiColorCircularSpinner: UIView, CAAnimationDelegate {
+public class ASMultiColorCircularLoader: UIView, CAAnimationDelegate {
 
     public var lineWidth: CGFloat = 5.0
     public var lineCap: CAShapeLayerLineCap = .round
