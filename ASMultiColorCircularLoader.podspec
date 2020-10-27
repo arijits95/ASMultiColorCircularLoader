@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ASMultiColorCircularLoader"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "This is a multicolor circular spinner which acts a a beautiful loader and is highly customizable."
 
   spec.description  = <<-DESC
